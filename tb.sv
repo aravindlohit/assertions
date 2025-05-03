@@ -1,3 +1,6 @@
+//assertions to check the stability of the CDC path to handle or prevent the glitches 
+
+
 module tb;
   reg clk1 ,clk2,reset,din;
   wire dout;
